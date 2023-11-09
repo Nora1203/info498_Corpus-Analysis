@@ -1,5 +1,6 @@
-# info498_Corpus-Analysis
-Objectives: To perform basic analysis on a corpus of text documents.
+# Project 1: Corpus Analysis
+
+**Objectives:** To perform basic analysis on a corpus of text documents.
 
 Computing n-gram statistics
 
